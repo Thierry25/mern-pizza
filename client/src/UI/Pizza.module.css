@@ -1,0 +1,37 @@
+.image {
+  width: 100%;
+  height: 310px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.cart {
+  width: 40%;
+  height: 90px;
+  object-fit: cover;
+}
+
+.topview {
+  margin: 30px;
+}
+
+.format {
+  margin: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 1.2em;
+}
+
+.header {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 1.5em !important;
+}
+
+.space {
+  margin-top: 20px;
+}
+
+hr {
+  color: #d3d3d3;
+}
