@@ -50,6 +50,9 @@ const Navbar = () => {
                   <a className="dropdown-item" href="/orders">
                     Orders
                   </a>
+                  <a className="dropdown-item" href="/admin">
+                    Admin Panel
+                  </a>
                   <a className="dropdown-item" href="#" onClick={logoutHandler}>
                     Log out
                   </a>
