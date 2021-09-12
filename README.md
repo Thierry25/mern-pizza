@@ -11,7 +11,7 @@ Functionalities:
 
 5) Admin can add/remove pizza to the website
 
-Technologies used: MongoDB, Express, REACT, Node.js, HTML5, CSS3.
+Technologies used: MongoDB, Express, REACT, Node.js, Stripe API, HTML5, CSS3.
 
 Visit https://delicioso-pizza.herokuapp.com for the website
 
